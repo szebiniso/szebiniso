@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="360" src="https://cdni.iconscout.com/illustration/premium/thumb/girl-working-in-laptop-3196724-2666479.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szebiniso&label=Profile%20views&color=0e75b6&style=flat" alt="szebiniso" /> </p>
 
-<p>👨‍💻 2+ Years Experience in Frontend Technologies</p>
+<p>👨‍💻 2.5+ Years Experience in Frontend Technologies</p>
 
 
 - 📫 How to reach me **szebiniso@gmail.com**
